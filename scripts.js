@@ -5,7 +5,7 @@ const cumpleanosSection = document.getElementById('cumpleanos');
 // Lista de nombres válidos con canciones y audios de mensaje personalizados
 const nombresYAudios = {
   'sharon': {
-    cancion: 'canción1.m4a',
+    cancion: 'Canción1.m4a',
     mensaje: 'mensaje1.mp3'
   },
   'puntitos': {
